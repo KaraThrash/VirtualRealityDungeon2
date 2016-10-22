@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/Dan.unity
+  isLoaded: 1
+  isActive: 1

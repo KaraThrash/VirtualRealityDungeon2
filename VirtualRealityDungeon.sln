@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityDungeon.CSharp.Plugins", "VirtualRealityDungeon.CSharp.Plugins.csproj", "{FBE70AF8-993F-AE8A-ACB1-5C6B03905DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityDungeon.CSharp", "VirtualRealityDungeon.CSharp.csproj", "{5F6AC2F5-1D50-C0C5-93A6-7030A9302E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRealityDungeon.CSharp.Editor", "VirtualRealityDungeon.CSharp.Editor.csproj", "{B503F898-E839-5B6B-213F-63D3BC5F81AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE70AF8-993F-AE8A-ACB1-5C6B03905DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE70AF8-993F-AE8A-ACB1-5C6B03905DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE70AF8-993F-AE8A-ACB1-5C6B03905DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE70AF8-993F-AE8A-ACB1-5C6B03905DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6AC2F5-1D50-C0C5-93A6-7030A9302E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6AC2F5-1D50-C0C5-93A6-7030A9302E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6AC2F5-1D50-C0C5-93A6-7030A9302E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6AC2F5-1D50-C0C5-93A6-7030A9302E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B503F898-E839-5B6B-213F-63D3BC5F81AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B503F898-E839-5B6B-213F-63D3BC5F81AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B503F898-E839-5B6B-213F-63D3BC5F81AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B503F898-E839-5B6B-213F-63D3BC5F81AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
